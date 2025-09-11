@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AI_Course/End%20to%20End%20MLOPS%20Project/self%20learning%20mlops%20project/mlruns/0/models/m-4337b4bc8c0140208dbc2871dc6afef2/artifacts
+creation_timestamp: 1757594548596
+experiment_id: '0'
+last_updated_timestamp: 1757594554922
+model_id: m-4337b4bc8c0140208dbc2871dc6afef2
+model_type: null
+name: model
+source_run_id: 8eb9fb57636048479562a69164c971b7
+status: 2
+status_message: null
