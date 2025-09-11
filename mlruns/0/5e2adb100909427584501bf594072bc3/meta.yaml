@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AI_Course/End%20to%20End%20MLOPS%20Project/self%20learning%20mlops%20project/mlruns/0/5e2adb100909427584501bf594072bc3/artifacts
+end_time: 1757575420034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e2adb100909427584501bf594072bc3
+run_name: welcoming-tern-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757575412336
+status: 3
+tags: []
+user_id: Priyanshu
